@@ -17,7 +17,7 @@ I focus on realistic, ethics-first offensive security: understanding how modern 
 
 I’m developing hands-on red teaming capability through certification study while continuously testing and evolving a **homemade Active Directory lab** that I design, break, and rebuild. My work is grounded in repeatable methodology, clear documentation, and measurable outcomes (what changed, what improved, what’s still risky).
 
-I care less about “running tools” and more about **reasoning**: threat modeling, tradeoffs, constraints, and how to operate safely and predictably in complex systems.
+I care less about “running tools” and more about **reasoning**: threat modeling, tradeoffs, constraints, and how to operate safely and effectively in complex systems.
 
 ---
 

@@ -3,7 +3,10 @@
 </p>
 
 
-Offensive Security (Active Directory / Red Team)
+<h1 align="center">MAL3VANTCTRL | Red Team & Adversary Simulation</h1>
+<p align="center">
+  <strong>Offensive Security • Adversary Simulation • Active Directory Exploitation</strong>
+</p>
 
 I focus on realistic, ethics-first offensive security: understanding how modern enterprise environments fail under pressure, then translating those lessons into better detection, hardening, and engineering decisions.
 

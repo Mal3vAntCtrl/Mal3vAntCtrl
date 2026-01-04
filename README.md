@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/Null.jpg" width="600">
+</p>
+
+
 Offensive Security (Active Directory / Red Team)
 
 I focus on realistic, ethics-first offensive security: understanding how modern enterprise environments fail under pressure, then translating those lessons into better detection, hardening, and engineering decisions.

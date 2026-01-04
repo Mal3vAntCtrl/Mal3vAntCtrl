@@ -97,9 +97,7 @@ What I measure in the lab:
 
 ## Portfolio (Selected Work)
 
-- 📌 **AD Lab Notes / Writeups**: (link to repo or folder)
-- 🧰 **Python Utilities**: (link to tools repo)
-- 🧭 **Methodology Templates**: (engagement checklists, reporting structure)
+Coming soon
 
 ---
 

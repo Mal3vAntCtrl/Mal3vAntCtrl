@@ -68,7 +68,7 @@ I use tools as instrumentation—not as “magic buttons.” I aim to understand
 - **Burp Suite** (when applicable): web attack surface testing and request-level reasoning  
 - **Wireshark**: protocol validation and “trust but verify” for what’s actually happening on the wire
 
-> I keep my work lab-contained and ethical: I focus on learning and validation, not indiscriminate exploitation.
+
 
 ---
 

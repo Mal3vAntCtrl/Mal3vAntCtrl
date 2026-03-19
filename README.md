@@ -112,4 +112,4 @@ Coming soon
 
 ## Contact
 
-https://medium.com/@Mal3vAntCtrl
+Mal3vAntCtrl@proton.me
